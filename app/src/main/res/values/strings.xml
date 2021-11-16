@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ecotask</string>
+    <string name="nome_da_tarefa">Nome da tarefa</string>
+    <string name="respons_vel">Responsável</string>
+    <string name="data">data</string>
+    <string name="data_para_conclus_o">Data para conclusão</string>
+    <string name="salvar">Salvar</string>
+    <string name="descri_o_da_tarefa">Descrição da tarefa</string>
 </resources>
